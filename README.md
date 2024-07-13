@@ -8,10 +8,6 @@
 - 💻 In search of new challenges and collaborative projects
 
 # ⚙️📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rosa-Enco-Perez&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rosa-Enco-Perez&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosa-Enco-Perez&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
----
 <p align="center">
 <a href="https://github.com/Rosa-Enco-Perez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rosa-Enco-Perez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -19,6 +15,7 @@
 </a>
 </p>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rosa-Enco-Perez&theme=radical&hide_border=false)<br/>
 
 
 ## 🌐 Socials:
