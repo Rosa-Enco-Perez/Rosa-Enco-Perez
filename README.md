@@ -15,8 +15,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rosa-Enco-Perez&layout=compact&langs_count=8&theme=algolia"/></a>
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rosa-Enco-Perez&theme=radical&hide_border=false)<br/>
-
-
-## 🌐 Socials:
+### 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/rosaenco) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosaenco/) 
