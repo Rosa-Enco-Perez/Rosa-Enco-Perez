@@ -3,9 +3,9 @@
 </div>
 <img src="https://github.com/user-attachments/assets/04bc3123-fed8-4dbc-b4e0-01580f5d31e0">
 
-##About me
-☕ I like coffee and code nights
-💻 In search of new challenges and collaborative projects
+## About me
+- ☕ I like coffee and code nights
+- 💻 In search of new challenges and collaborative projects
 
 ### ⚙️ &nbsp;GitHub Analytics 
 
