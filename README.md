@@ -7,7 +7,7 @@
 - ☕ I like coffee and code nights
 - 💻 In search of new challenges and collaborative projects
 
-# ⚙️📊 GitHub Stats:
+### ⚙️📊 GitHub Stats:
 
 <p align="center">
 <a href="https://github.com/Rosa-Enco-Perez">
