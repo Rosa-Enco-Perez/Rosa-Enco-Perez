@@ -3,9 +3,11 @@
 </div>
 <img src="https://github.com/user-attachments/assets/04bc3123-fed8-4dbc-b4e0-01580f5d31e0">
 
+##About me
+☕ I like coffee and code nights
+💻 In search of new challenges and collaborative projects
 
-
-
+### ⚙️ &nbsp;GitHub Analytics 
 
 <!--
 **Rosa-Enco-Perez/Rosa-Enco-Perez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
