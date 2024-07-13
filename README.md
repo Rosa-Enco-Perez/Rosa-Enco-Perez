@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Rosa!👋</h1>
 </div>
-<img src="![bannergh](https://github.com/user-attachments/assets/04bc3123-fed8-4dbc-b4e0-01580f5d31e0)">
+<img src="https://github.com/user-attachments/assets/04bc3123-fed8-4dbc-b4e0-01580f5d31e0)">
 
 
 
