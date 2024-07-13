@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello!, I'm Rosa but you can call me Roen 👋</h1>
-</div>
+ 
 <img src="https://github.com/user-attachments/assets/04bc3123-fed8-4dbc-b4e0-01580f5d31e0">
 
 ## About me
@@ -8,7 +8,8 @@
 - 💻 In search of new challenges and collaborative projects
 
 # ⚙️📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rosa-Enco-Perez&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=Rosa-Enco-Perez&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/></div>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rosa-Enco-Perez&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosa-Enco-Perez&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
