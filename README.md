@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello!, I'm Rosa but you can call me Roen 👋</h1>
  </div>
-<img src="https://github.com/user-attachments/assets/04bc3123-fed8-4dbc-b4e0-01580f5d31e0">
+![bannergh](https://github.com/user-attachments/assets/e30940e5-0ab4-4db3-8a65-22290f79983d)
 
 ## About me
 - ☕ I like coffee and code nights
